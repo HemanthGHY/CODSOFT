@@ -30,12 +30,5 @@ public class RandomGeneratorGame {
         } catch (Exception e) {
         System.out.println(e);
         }
-       /* 
-        public int  randomgenerator(int n){
-            Random random = new Random();
-            int rand = random.nextInt(n);
-            return n;
-        }
-        */
     }
 }
